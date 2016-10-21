@@ -1,0 +1,54 @@
+[
+  {
+    "type": "inbound queue",
+    "title": "Claim adjustment received(1231231231)",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis.",
+    "slide": "true"
+  },
+  {
+    "type": "inbound queue",
+    "title": "Claim adjustment received(1231231231)",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis.",
+    "slide": "true"
+  },
+  {
+    "type": "outbound queue",
+    "title": "JSON Edit here",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis.",
+    "slide": "true"
+  },
+  {
+    "type": "outbound queue",
+    "title": "Claim adjustment received(1231231231)",
+    "content": "Lorem ipsum dolor sit amet, consectetvallis. JSON FILE CHANGE JSON FILE CHANGE",
+    "slide": "true"
+  },
+  {
+    "type": "transactions",
+    "title": "Claim adjustment received(1231231231)",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis."
+  },
+  {
+    "type": "transactions",
+    "title": "Claim adjustment received(1231231231)",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ANOTHER JSON FILE CHANGE",
+    "color": "true"
+  },
+  {
+    "type": "transactions",
+    "title": "Claim adjustment received(1231231231)",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis."
+  },
+  {
+    "type": "transactions",
+    "title": "THIS DATA IS COMING FROM A",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis.",
+    "color": "false"
+  },
+  {
+    "type": "transactions",
+    "title": "JSON FILE",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse elementum sagittis velit. Mauris convallis sodales sem id sagittis.",
+    "color": "true"
+  }
+]
